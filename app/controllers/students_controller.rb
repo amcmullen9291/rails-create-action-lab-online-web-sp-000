@@ -9,7 +9,7 @@ class StudentsController < ApplicationController
   end
 
   def new
-    # binding.pry
+    
   end
 
   def create
