@@ -9,6 +9,7 @@ class StudentsController < ApplicationController
   end
 
   def new
+    binding.pry
     @student = Student.all
   end
 
